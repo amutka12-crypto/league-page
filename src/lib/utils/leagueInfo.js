@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the official webpage of the 1993 White Ford Bronco Fantasy League. Here you can view the history of the league, records, champions, and current standings as we progress.</p>
-  <p>Founded in 2025, this league is composed of a childhood friend group and their significant others. Founder and commish is Andrew (DroopyGoopy), co-founder Dylan (Tubasaurus), followed by Gavin (DavinGavis), Miguel (MigDia), Andi (ajswaggyy), and Anna (Annabortion2) Together, these friends battle it out as the members with little to no experience try to catch and dismantle the life-long football fanatics.</p>
+  <p>Founded in 2025, this league is composed of a childhood friend group and their significant others. Founder and commish is Andrew (DroopyGoopy), co-founder Dylan (Tubasaurus), followed by Gavin (DavinGavis), Miguel (MigDia), Andi (ajswaggyy), and Anna (Annabortion2). Together, these friends battle it out as the members with little to no experience try to catch and dismantle the life-long football fanatics.</p>
 `;
 
 /*   STEP 3   */
